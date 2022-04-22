@@ -50,7 +50,7 @@ $request = '
               "custom_type": "custom_box_and_whisker",
               "type": "custom",
               "name": "Custom Question - Box And Whisker",
-              "editor_layout": "/authoring_custom_layout.html",
+              "editor_layout": "/dist/authoring_custom_layout.html",
               "js": {
                 "question": "/dist/question.js",
                 "scorer": "/dist/scorer.js"

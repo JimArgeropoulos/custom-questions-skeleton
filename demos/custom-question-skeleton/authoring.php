@@ -31,7 +31,7 @@ $request = '
               "custom_type": "custom_question_skeleton",
               "type": "custom",
               "name": "Custom Question - Skeleton",
-              "editor_layout": "/authoring_custom_layout.html",
+              "editor_layout": "/dist/authoring_custom_layout.html",
               "js": {
                 "question": "/dist/question.js",
                 "scorer": "/dist/scorer.js"
